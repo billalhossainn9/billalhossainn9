@@ -13,7 +13,7 @@ If you want to see what I’m working on, feel free to explore my repos anytime!
 
 Fun Facts:
 
-•	I enjoy learning new technologies and improving my problem-solving skills
-•	I love building things from scratch
-•	Coding, design, and productivity tools keep me excited
-•	Always exploring something new in web development
+I enjoy learning new technologies and improving my problem-solving skills
+I love building things from scratch
+Coding, design, and productivity tools keep me excited
+Always exploring something new in web development
